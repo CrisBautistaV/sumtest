@@ -136,7 +136,7 @@ function selectAudio(index) {
     document.getElementById('audioClass').textContent = audio.clasification;
     document.getElementById('audioDesc').textContent = audio.description;
     document.getElementById('audioVoices').textContent = audio.voices;
-    document.getElementById('playCount').textContent = getPlayCount(audio.id);
+    //document.getElementById('playCount').textContent = getPlayCount(audio.id);
     
     // Set audio source with additional security
     const audioElement = document.getElementById('audioElement');
