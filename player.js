@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
     loadAudioList();
     initializeAudioPlayer();
     //loadPlayCounts();
-    initializeCounters();
+    //initializeCounters();
 });
 
 // Load audio list on the page
@@ -166,9 +166,9 @@ function playAudio() {
             // 1. Log to Google Forms (global tracking)
             logPlayToGoogleForms(currentAudio.id);
             // 2. Update local counter (immediate display)
-            updateLocalCounter(currentAudio.id);
+            // updateLocalCounter(currentAudio.id);
             // 3. Update global counts from sheet (optional, can run in background)
-            loadGlobalCountsFromSheet();
+            // loadGlobalCountsFromSheet();
 
             //incrementPlayCount(currentAudio.id);
             //document.getElementById('playCount').textContent = getPlayCount(currentAudio.id);
