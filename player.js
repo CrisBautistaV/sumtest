@@ -12,8 +12,8 @@ const AUDIO_CONFIG = {
             description: "Ingenioso y con humor absurdo, en este relato el espía internacional Jaime Bondurrieta despierta atado en una pequeña oficina, frente a un villano poco convencional: el “satánico” Dr. Godínez, un burócrata calvo y regordete con un plan de dominación mundial tan original como hilarante. "+
                         "Este cuento forma parte del libro “Y sin embargo es un pañuelo” de Jaime Muñoz de Baena.",
             voices: "Omar Zermeño, Uziel Mireles, Yarib Bautista.",
-            image: "Satánico Dr. Godínez.png",
-            file: "Satánico Dr. Godinez_8D_F.mp3"
+            image: "Satanico Dr. Godinez.png",
+            file: "Satanico Dr. Godinez_8D_F.mp3"
         },
         {
             id: 2,
