@@ -8,57 +8,57 @@ const AUDIO_CONFIG = {
             id: 1,
             title: "El satánico Dr. Godínez",
             autor: "Jaime Muñoz de Baena",
-            clasification: "+10. Para todo público.",
+            clasification: "+10. Para todo público. 7 min.",
             description: "Ingenioso y con humor absurdo, en este relato el espía internacional Jaime Bondurrieta despierta atado en una pequeña oficina, frente a un villano poco convencional: el “satánico” Dr. Godínez, un burócrata calvo y regordete con un plan de dominación mundial tan original como hilarante. "+
                         "Este cuento forma parte del libro “Y sin embargo es un pañuelo” de Jaime Muñoz de Baena.",
             voices: "Omar Zermeño, Uziel Mireles, Yarib Bautista.",
-            image: "audio3.jpg",
-            file: "Satanico 8Dv1.mp3"
+            image: "Satánico Dr. Godínez.png",
+            file: "Satánico Dr. Godinez_8D_F.mp3"
         },
         {
             id: 2,
             title: "Un rojo destello",
             autor: "Mariana Rergis",
-            clasification: "+18. Incluye insinuación sexual y del consumo de tabaco.",
+            clasification: "+18. Incluye insinuación sexual y del consumo de tabaco. 15 min.",
             description: "Un hábito oculto – ese “destello rojo” que irrumpe en la obscuridad - se convierte en símbolo de tensión, distancia y revelación. Lo que parece un detalle mínimo termina exhibiendo las grietas emocionales de una relación, evidenciando que la convivencia no siempre implica el conocimiento profundo del otro. "+ 
                         "La canción que suena es 'Vértigo' de La Pingo's Orquesta con voz y letra de Gabriela Bernal. "+
                         "Este cuento forma parte del libro “La noche de los crueles” de Mariana Rergis.",
             voices: "Mauren Garza, Tico Bautista, Yarib Bautista, Sakay Cruz.",            
-            image: "audio2.jpg",
-            file: "Rojo 8Dv1.mp3"
+            image: "Rojo destello.png",
+            file: "Un rojo destello_8D_F.mp3"
         },
         {
             id: 3,
             title: "Dios no hizo el paro",
             autor: "Dahlia de la Cerda",
-            clasification: "+18. Incluye lenguaje altisonante e insinuación del consumo de drogas.",
+            clasification: "+18. Incluye lenguaje altisonante e insinuación del consumo de drogas. 12 min.",
             description: "Con un lenguaje directo y crudo, una joven que crece en un entorno marcado por la violencia, la precariedad económica y la desigualdad social, narra cómo la idea de un Dios protector no parece tener lugar en una realidad donde las oportunidades son escasas. "+
                         "Este cuento forma parte del libro “Perras de reserva” de Dahlia de la Cerda y la frase principal del cuento proviene de la canción “Perra vida” del cantante Tren Lokote.",
             voices: "Gabriela Elías, Tico Bautista.",
             image: "Dios no hizo el paro.png",
-            file: "Dios 8Dv1.mp3"
+            file: "Dios no hizo el paro 8D_F.mp3"
         },
         {
             id: 4,
             title: "Las vacas de Quiviquinta",
             autor: "Francisco Rojas",
-            clasification: "+10. Para todo público.",
+            clasification: "+10. Para todo público. 13 min.",
             description: "Ambientado en el pueblo de Quiviquinta, una pareja cora con una hija pequeña, sortean su vida cotidiana marcada por la escasez de alimento, la infertilidad de las cosechas y la falta de oportunidades laborales, reflejando de forma honesta y emotiva la crudeza de la vida rural y la resiliencia de sus habitantes. "+ 
                         "Este cuento forma parte de la colección del libro “México cuenta” de Grupo SURA.",
             voices: "Gabriela Elías, Uziel Mireles, Tico Bautista, Mauren Garza, Sakay Cruz, Yarib Bautista.",
-            image: "audio4.jpg",
-            file: "Vacas 8Dv1.mp3"
+            image: "Vacas de Quiviquinta.png",
+            file: "Vacas de Quiviquinta_8D_F.mp3"
         },
         {
             id: 5,
             title: "Una esperanza",
             autor: "Amado Nervo",
-            clasification: "+10. Para todo público pero con insinuación al uso de armas.",
+            clasification: "+10. Para todo público, con insinuación al uso de armas. 13 min.",
             description: "Un joven militar encarcelado y condenado a muerte tras participar en una revuelta política, desde su celda y atormentado por los recuerdos de su infancia, sus amores y la vida que una vez llevó, lucha con el miedo a la muerte y el deseo visceral de seguir viviendo pese a comprender el valor de sus ideales y el sacrificio que implican. "+ 
                         "Este cuento forma parte del libro “Cuentos misteriosos” de Amado Nervo.",
             voices: "Uziel Mireles, Omar Zermeño, Tico Bautista, Yarib Bautista.",
-            image: "audio5.jpg",
-            file: "Esperanza 8Dv1.mp3"
+            image: "Una esperanza.png",
+            file: "Una esperanza_8D_F.mp3"
         }
     ]
 };
